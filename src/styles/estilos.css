@@ -1,0 +1,45 @@
+body{
+    background-color: black;   
+}
+.Welcome{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.contenedor{
+margin-left: 15rem;
+
+}
+
+img{
+    border-radius: 2rem;
+    width: 15rem; height: 18rem;
+    float: left;
+    margin-left:2.50em;
+    
+}
+.TituloAccion{
+    color: white;
+    margin-left:18rem ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+.TituloTerror{
+    color: white;
+    position: relative;
+    margin-right: 20rem;
+    margin-top: 15rem;
+    margin-left:18rem ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+.TituloComedia{
+      color: white;
+    position: relative;
+    margin-right: 20rem;
+    margin-top: 15rem;
+    margin-left:18rem ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
